@@ -23,3 +23,6 @@ horizon?
 From gate 2023
 Consider a tiny current loop driven by a sinusoidal alternating current. If the surface integral of time averaged Poynting vector is constant then the magnitude of the time averaged magnetic field intensity at an arbitrary r is \prop to 1/r^n where n=?
 
+(If the variable takes values 0,1,2...n with frequency prop to
+binomial coefff nC0..ncn, the variance of distribution is?) (*What is the length of tangent from 3,4 to parabola y^2-3y+4x=0 *) 2 math olympiad problems
+
