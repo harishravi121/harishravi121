@@ -19,3 +19,7 @@ horizon.
 (b) (3 marks) Briefly state why the three assumptions above are relevant to the solution.
 (c) (2 marks) How much time would it take for the Earth to completely rise above Moon’s
 horizon?
+
+From gate 2023
+Consider a tiny current loop driven by a sinusoidal alternating current. If the surface integral of time averaged Poynting vector is constant then the magnitude of the time averaged magnetic field intensity at an arbitrary r is \prop to 1/r^n where n=?
+
