@@ -26,3 +26,5 @@ Consider a tiny current loop driven by a sinusoidal alternating current. If the 
 (If the variable takes values 0,1,2...n with frequency prop to
 binomial coefff nC0..ncn, the variance of distribution is?) (*What is the length of tangent from 3,4 to parabola y^2-3y+4x=0 *) 2 math olympiad problems
 
+Wishing there were  anaglyph games and phones with 2 camera software to take videos and photos..
+
