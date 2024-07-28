@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hope to do lots of programming in various languages! I have put my github link on facebook and have to live with fear always from bad people without following. Same with all social media and other links of FB..
+Hope to do lots of programming in various languages! I have put my github link on facebook and have to live with uncertainity always from bad people without following. Same with all social media and other links of FB..
 
 साई राम சாய்ராம்
 
