@@ -5,8 +5,8 @@ Hope to do lots of programming in various languages! I have put my github link o
 साई राम சாய்ராம்
 
 ![image](https://github.com/harishravi121/harishravi121/assets/39822028/aedc4992-8cae-4afd-82f7-3d9246dbc654)
+![image](https://github.com/user-attachments/assets/451ef9d8-c192-4e1e-ad29-6db15bfeaa1b)
 
-![image](https://github.com/user-attachments/assets/e5f28e80-a7fe-4f14-92fe-4cac9d20399f)
 
 
 A physics olympiad question from HBCSE : 
