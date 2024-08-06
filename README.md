@@ -2,6 +2,8 @@
 
 Hope to do lots of programming in various languages! I have put my github link on facebook and have to live with uncertainity always from people without following. Same with all social media and other links of FB..
 
+​Harish in hexadecimal(0x..) is 48 61 72 69 78 68 (Helps us think how great computers are to regulate and manipulate bits learnt in a computer organization book and coure)
+
 साई राम சாய்ராம்
 
 ![image](https://github.com/harishravi121/harishravi121/assets/39822028/aedc4992-8cae-4afd-82f7-3d9246dbc654)
