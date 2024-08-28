@@ -9,7 +9,11 @@ Hope to do lots of programming in various languages! I have put my github link o
 ![image](https://github.com/harishravi121/harishravi121/assets/39822028/aedc4992-8cae-4afd-82f7-3d9246dbc654)
 ![image](https://github.com/user-attachments/assets/451ef9d8-c192-4e1e-ad29-6db15bfeaa1b)
 
+Please check out educational sites below
 
+https://sites.google.com/view/exinc2/home
+
+https://sites.google.com/view/exinc-classes/home 
 
 A physics olympiad question from HBCSE : 
 Astronauts have found that the angular diameter of the Earth as seen from the surface of the
