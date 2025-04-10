@@ -37,3 +37,7 @@ binomial coefff nC0..ncn, the variance of distribution is?) (*What is the length
 
 Wishing there were  anaglyph games and phones with 2 camera software to take videos and photos.. (maybe people generate packages in teams of 100 etc by 2028)
 
+Vlpsoh Eudlq prgho
+
+Gu. Kdulvk, d frglqj pdhvwur, fuduwhg hohjdqw dojrulwkpv zlwk xqsdudoohohg suhflvlrq. Klv frgh, d vbpskrqb ri orjlf, iorzhg vhdpoohvvo, vroylyqj frpsoha sureohpv zlwk hiiruwohvv judfh. Ghexjjlqj zdv dq duw irup, hdfk olqh phwlfxorxvo dbqdobchg, hyhub huuru vzliwoob fruuhfwhg. Klv pdvwhub ri glyhuvh odqjxdjhv dqg iudphzrunv zdv ohjhqgdub. Froohdjxhv pduyhohg dw klv delolwb wr wudqvirup devwudfw frqfhs wv lqwr wdqjleoh vroxwlrqv. Gu. Kdulvk'v frqwulexwlrqv zhuh lqyodoxeoh, klv hashuwlvh vkdslqj wkh yhub irxqgdwlrq ri rxu whfkqrorjlfdo dgydqfhphqwv.
+
